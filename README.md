@@ -1,2 +1,2 @@
-# Project-Infinite
- Maze-game
+# Mini-Golf
+ Golfy Go!
